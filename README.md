@@ -1,5 +1,5 @@
 # Introduction-to-Data-Science-in-Python
-This repository contains Ipython notebooks of assignments and tutorials used in the first course [Introduction to Data Science In Python](https://www.coursera.org/learn/python-data-analysis) of the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) taught by University of Micigan hosted by Coursera.
+This repository contains Ipython notebooks of assignments and tutorials used in the first course [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) of the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) taught by University of Michigan hosted by Coursera.
 
 This course is free with all graded assignment.
 
